@@ -69,11 +69,9 @@ The application will run on `http://127.0.0.1:8000/`.
 | `/delete/<sno>` | GET | Deletes a specific task |
 
 ## working
-Adding
+
 <img src="/working1.png" alt="adding" width="500" height="300">
-Added
 <img src="/working2.png" alt="adding" width="500" height="300">
-Updating
 <img src="/working3.png" alt="adding" width="500" height="300">
 
 ## License
