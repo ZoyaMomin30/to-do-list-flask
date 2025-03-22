@@ -70,6 +70,7 @@ The application will run on `http://127.0.0.1:8000/`.
 
 ## Screenshot
 ![To-Do List UI](./screenshot.png)
+<img src="/working1.png" alt="adding" width="400" height="500">
 
 ## License
 This project is licensed under the MIT License.
