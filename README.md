@@ -73,10 +73,3 @@ The application will run on `http://127.0.0.1:8000/`.
 <img src="/working1.png" alt="adding" width="500" height="300">
 <img src="/working2.png" alt="adding" width="500" height="300">
 <img src="/working3.png" alt="adding" width="500" height="300">
-
-## License
-This project is licensed under the MIT License.
-
-## Contributions
-Feel free to fork this repository and improve the project by submitting pull requests!
-
